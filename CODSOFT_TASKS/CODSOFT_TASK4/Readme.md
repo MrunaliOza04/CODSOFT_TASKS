@@ -31,5 +31,7 @@ Quiz.java
 Main.java
 
 ### Author
+**Mrunali Oza**
 
-Mrunali Oza
+### Internship
+Java Development Internship - CODSOFT
